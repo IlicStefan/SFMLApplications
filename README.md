@@ -1,1 +1,1 @@
-# SFMLApplication
+# SFMLApplications
