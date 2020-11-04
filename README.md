@@ -1,1 +1,1 @@
-# SFMLApplications
+# SFMLGames
